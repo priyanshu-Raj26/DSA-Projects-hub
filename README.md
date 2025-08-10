@@ -1,9 +1,9 @@
-# DSA-Projects-hub
+# DSA-Projects-hub🚀
 Personal portfolio of Data Structures and Algorithms projects with well-documented code and solutions.
 
 💡 Learn → 🛠 Practice → ⚡ Improve
 
-DSA Projects Hub 🚀
+DSA Projects Hub: 
 Welcome to DSA Projects Hub — a curated collection of Data Structures and Algorithms implementations, problem solutions, and mini-projects to sharpen coding skills.
 
 Whether you’re brushing up on the basics or tackling advanced problems, this repo is here to help you:
