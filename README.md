@@ -17,9 +17,11 @@ Whether you’re brushing up on the basics or tackling advanced problems, this r
 What you’ll find here
 <br>
 🎮 Tic-Tac-Toe (Console)
+<br>
 Arrays, ArrayLists, and a simple winner-detection algorithm. Classic game, clean code.
 
 🧩 Sudoku Solver
+<br>
 Backtracking algorithm that fills any 9×9 grid, with clear recursion traces so you can see the logic unfold.
 
 
